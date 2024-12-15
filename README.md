@@ -97,3 +97,11 @@ job-application-tracker/
 - Enable exporting data as CSV.
 
 - Implement dark mode for improved user experience.
+
+## Deployment
+
+- Deployed on vercel: https://job-tracker-frontend-one.vercel.app/
+
+- for testing, you can use:
+email: test123@gmail.com
+password: test123
