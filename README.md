@@ -1,6 +1,6 @@
 ## Job Application Tracker
 
-This project is a Job Application Tracker, a web application that helps users manage and track their job applications. Users can add new job applications, update their status, and view insightful statistics through charts and tables.
+This project is a Job Application Tracker, a web app that helps users manage and track their job applications. Users can add new job applications, update their status, and view insightful statistics through charts and tables.
 
 ## Features
 
